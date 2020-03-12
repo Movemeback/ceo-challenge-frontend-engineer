@@ -1,4 +1,4 @@
-#Frontend Engineer CEO Challenge - GIT4IDEAS#
+# Frontend Engineer CEO Challenge - GIT4IDEAS
 
 ## Your challenge should you choose to accept:
 
